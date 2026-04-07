@@ -8,8 +8,8 @@ An ArcDPS addon for Guild Wars 2 with cinematic/dialogue skip, confirmation over
 - **Dialogue Skip** — Automatically skip NPC dialogue by signaling the event/progression system on the first dialogue line. Voice lines keep playing while the game advances immediately.
 - **Skip Delete Confirm** — Bypass the item deletion confirmation dialog (direct delete).
 - **Skip Drag-Drop Confirm** — Bypass the confirmation dialog when drag-dropping items to delete.
-- **Hide Clones & Phantasms** — Suppress model loading for mesmer illusions. Applies to newly spawned entities; reload the instance for a full refresh.
-- **Fix Bank Opening Lag** — NOP a JNZ that skips bank preload, eliminating the stutter when opening the bank panel.
+- **Hide Clones & Phantasms** (In-progress)— Suppress model loading for mesmer illusions. Applies to newly spawned entities; reload the instance for a full refresh.
+- **Fix Bank Opening Lag** (Have known Issues)— NOP a JNZ that skips bank preload, eliminating the stutter when opening the bank panel.
 - **INI persistence** — Settings saved to `addons/arcdps/arcdps_qol_tweaks.ini`
 - **Wine/macOS compatible** — Tested via CrossOver/Wine
 
